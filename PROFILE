@@ -1,0 +1,9 @@
+- My name is EYAD from Egypt
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Python
+- 📫 How to reach me https://www.facebook.com/eyad.gamal.399
+
+<!---
+EYADELHADY/EYADELHADY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
